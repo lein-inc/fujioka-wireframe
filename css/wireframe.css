@@ -339,3 +339,6 @@ section { padding: 64px 0; border-bottom: 1px solid #ccc; }
   .hist-grid { grid-template-columns: 1fr; }
   .hist-cell { border-right: none !important; }
 }
+
+/* 要確認バッジ（クライアント確認事項） */
+.chk { display:inline-block; background:#C00000; color:#fff; font-size:11px; padding:2px 8px; font-weight:700; letter-spacing:0.05em; vertical-align:middle; margin-left:6px; white-space:nowrap; }
