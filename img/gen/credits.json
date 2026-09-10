@@ -1,15 +1,8 @@
 {
- "gen_col02": [
-  "File:Magnesium ingots in Mg pallet.jpg",
-  "CC BY-SA 4.0",
-  4000,
-  3000,
-  907179
- ],
  "gen_str01": {
-  "title": "File:Injection Molding Machine with a robot arm.jpg",
-  "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg"
+  "title": "File:Makino-S33-MachiningCenter-example.jpg",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Makino-S33-MachiningCenter-example.jpg"
  },
  "gen_str02": {
   "title": "File:Injection mold of phone housing.jpg",
@@ -17,9 +10,9 @@
   "source": "https://commons.wikimedia.org/wiki/File:Injection_mold_of_phone_housing.jpg"
  },
  "gen_str03": {
-  "title": "File:CNC milling machine.jpg",
-  "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:CNC_milling_machine.jpg"
+  "title": "File:MillingCutterSlotEndMillBallnose.jpg",
+  "license": "CC BY-SA 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:MillingCutterSlotEndMillBallnose.jpg"
  },
  "gen_case01": {
   "title": "File:Samsung NX1 chassis.jpg",
@@ -27,23 +20,18 @@
   "source": "https://commons.wikimedia.org/wiki/File:Samsung_NX1_chassis.jpg"
  },
  "gen_case02": {
-  "title": "File:Fishing-spinning-reel.JPG",
-  "license": "CC BY 3.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Fishing-spinning-reel.JPG"
+  "title": "File:Casse-noix inox 04.jpg",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Casse-noix_inox_04.jpg"
  },
  "gen_case03": {
-  "title": "File:KUKA industrial robotic arm performing \"The Beach\" by Roy Nachum - 03.jpg",
+  "title": "File:Lathe Threaded Arbor With Bolt.jpg",
   "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:KUKA_industrial_robotic_arm_performing_\"The_Beach\"_by_Roy_Nachum_-_03.jpg"
+  "source": "https://commons.wikimedia.org/wiki/File:Lathe_Threaded_Arbor_With_Bolt.jpg"
  },
- "gen_col01": {
-  "title": "File:A man riding an electric bicycle.jpg",
+ "gen_mask": {
+  "title": "File:Lathe Center Drilling.jpg",
   "license": "CC BY-SA 4.0",
-  "source": "https://commons.wikimedia.org/wiki/File:A_man_riding_an_electric_bicycle.jpg"
- },
- "gen_col03": {
-  "title": "File:Modern warehouse with pallet rack storage system.jpg",
-  "license": "CC BY-SA 3.0",
-  "source": "https://commons.wikimedia.org/wiki/File:Modern_warehouse_with_pallet_rack_storage_system.jpg"
+  "source": "https://commons.wikimedia.org/wiki/File:Lathe_Center_Drilling.jpg"
  }
 }
