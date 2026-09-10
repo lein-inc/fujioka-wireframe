@@ -1,0 +1,49 @@
+{
+ "gen_col02": [
+  "File:Magnesium ingots in Mg pallet.jpg",
+  "CC BY-SA 4.0",
+  4000,
+  3000,
+  907179
+ ],
+ "gen_str01": {
+  "title": "File:Injection Molding Machine with a robot arm.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Injection_Molding_Machine_with_a_robot_arm.jpg"
+ },
+ "gen_str02": {
+  "title": "File:Injection mold of phone housing.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Injection_mold_of_phone_housing.jpg"
+ },
+ "gen_str03": {
+  "title": "File:CNC milling machine.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:CNC_milling_machine.jpg"
+ },
+ "gen_case01": {
+  "title": "File:Samsung NX1 chassis.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Samsung_NX1_chassis.jpg"
+ },
+ "gen_case02": {
+  "title": "File:Fishing-spinning-reel.JPG",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Fishing-spinning-reel.JPG"
+ },
+ "gen_case03": {
+  "title": "File:KUKA industrial robotic arm performing \"The Beach\" by Roy Nachum - 03.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:KUKA_industrial_robotic_arm_performing_\"The_Beach\"_by_Roy_Nachum_-_03.jpg"
+ },
+ "gen_col01": {
+  "title": "File:A man riding an electric bicycle.jpg",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:A_man_riding_an_electric_bicycle.jpg"
+ },
+ "gen_col03": {
+  "title": "File:Modern warehouse with pallet rack storage system.jpg",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Modern_warehouse_with_pallet_rack_storage_system.jpg"
+ }
+}
